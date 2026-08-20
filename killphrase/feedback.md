@@ -1,0 +1,11 @@
+## Developer Response
+**Source:** Steam comment, August 2026
+
+> Hey Wattmole, Thank you for this! Happy to hear that about my pixel art. The level junction screen became quite cluttered as I added more options, I will to do clean up of that. The elevator ascii descent marker was mostly just decoration to show how deep you are, and when bosses are coming up, but It's not clear about it, I will rethink it.
+> "plants and shrooms words" is planned and I have been doing sketches of an NPC for this sector. stay tuned!
+> I can see how the the little tank(roomba?) could feel pointless, I like to use them as a gap to wait for a health supply-drop if I'm low, and typing them horizontally just rolling my fingers really fast is satisfying for me.
+> So pleased to hear you like my animal picture quiz! I might make them more frequent per floor, but I've only drawn a handful of these so far.
+> Yeah the floor 10 boss is going to have to be tuned more, It isn't much threat for the average player on medium. Expert is where it shines for me. I may need to add higher and higher difficulties!
+> I loved making those big robots so destructible! good to hear feedback on them.
+> I will have more enemies, the deeper levels should offer some unique ones.
+> Thanks!
