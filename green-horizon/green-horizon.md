@@ -50,7 +50,7 @@ Tested across two separate builds, the first public playtest, then a downloadabl
 - Harvest-ready popup added since Build 1.
 - Shears mini-game concept liked despite the hitbox issue.
 - Border tree sprites improved visually.
-- Money pacing felt more generous in Build 2; XP pacing still felt slow for early unlocks.
+- Money pacing felt more generous in Build 2, XP pacing still felt slow for early unlocks.
 
 ## Developer Response
 The developer called this the game's first public playtest and worked through the reported issues over subsequent updates, several of which were confirmed fixed in the beta build. They also invited me back for further beta feedback rounds.

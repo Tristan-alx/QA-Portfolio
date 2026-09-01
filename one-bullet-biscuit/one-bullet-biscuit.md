@@ -25,13 +25,13 @@ Full playthrough covering multiple rounds and waves, the upgrade shop, and the b
 | 8 | Low | Unclear | The hatchet-throwing zombie plays its throw animation on contact but nothing happens, unclear if this is intentional (melee-only in range) or a bug. |
 
 ## UX / Design Feedback
-- The distinction between "Next Wave" (harder, no upgrades) and "End Round" (go to upgrade menu, next round much harder) was not clear and took about 20 minutes to understand, this confusion is described as the root of most other difficulty complaints.
-- No way to retry the specific wave/round just lost — losing mid-round forces a jump straight into a harder round with fewer resources.
+- The distinction between "Next Wave" (harder, no upgrades) and "End Round" (go to upgrade menu, next round much harder) was not clear and took me about 20 minutes to understand, this confusion, for me, is as the root of most other difficulty complaints.
+- No way to retry the specific wave/round just lost. Losing mid-round forces a jump straight into a harder round with fewer resources.
 - Difficulty spikes sharply between rounds; without the health upgrade the player is one-shot by everything. Suggested a "grace" mechanic (one hit down to 1 HP instead of instant death) or a recommendation prompt in the upgrade menu.
 - No sound or visual feedback when the player takes damage.
 - Upgrade costs are not visible outside the upgrade menu, making planning purchases harder for new players.
 - Damage-increasing upgrade felt to have no early-game purpose against the giant zombie; bullet-size upgrade effect was imperceptible after one purchase.
-- Suggested adding a movement option (dash/roll) or a "parry the hatchet and throw it back" mechanic with a cooldown.
+- Suggested adding a movement option (dash/roll) or a "parry" option for the hatchet, and throwing it back" mechanic with a cooldown on it.
 - Requested a fullscreen option for the browser build, the cursor frequently left the game area and clicked page elements instead.
 
 ## Positive Notes
