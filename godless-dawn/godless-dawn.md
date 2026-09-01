@@ -1,8 +1,11 @@
 # Godless Dawn — Playtest Report
 
 **Developer:** Celal Şahin (Hawk Studio Entertainment)
+
 **Platform:** Studio website form (hawkstudioent.com), structured checklist + optional written comments
+
 **Genre:** Souls-like (pre-alpha, 3 testable bosses)
+
 **Tester:** Loïc Alexandre
 
 ## Summary

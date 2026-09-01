@@ -1,8 +1,11 @@
 # Flip Market — Playtest Report
 
 **Developer:** North East Interactive
+
 **Platform:** itch.io (browser build)
+
 **Genre:** Shop/resource management sim
+
 **Tester:** Loïc Alexandre (Wattmole)
 
 ## Summary
@@ -13,7 +16,7 @@
 | # | Severity | Area | Description |
 |---|---|---|---|
 | 1 | Medium | Discoverability | Neither the calendar nor the upgrade section is highlighted anywhere in the UI; the calendar was found only ~2 days before missing a rent payment. |
-| 2 | Medium | Clarity | Unclear whether calendar item bonuses apply to the current day's stock or require planning ahead — needs an explicit explanation. |
+| 2 | Medium | Clarity | Unclear whether calendar item bonuses apply to the current day's stock or require planning ahead, needs an explicit explanation. |
 | 3 | Low | UX | The physical shelf model is small and hard to read; unclear whether an upgrade changes its size. |
 | 4 | Low | UX | No indicator in the shelf menu showing which products have already been sold, requiring the player to check manually. |
 | 5 | Low | Readability | End-of-day summary and market update are both presented as dense blocks of text, making them feel like more effort to read than their value justifies. Suggested the market update may be redundant with the computer's "worth buying" indicator. |
@@ -27,4 +30,4 @@
 - Core gameplay loop described as satisfying overall.
 
 ## Developer Response
-Developer agreed with all points raised and confirmed they would be addressed in the next update.
+The developer agreed with all points raised and confirmed they would be addressed in the next update.

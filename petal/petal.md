@@ -1,8 +1,11 @@
 # Petal — Playtest Report
 
 **Developer:** 13-23
+
 **Platform:** itch.io
+
 **Genre:** Point-and-click narrative/horror (mouse-only)
+
 **Tester:** Loïc Alexandre (Wattmole)
 
 ## Summary
@@ -20,4 +23,4 @@ Full playthrough of a mouse-only point-and-click narrative game (75% of planned 
 - Notable scope achievement: ~75% of the game built using only mouse input.
 
 ## Developer Response
-Developer attributed the repeat-interaction bug to messy underlying code, and noted they were taking the feedback into a new project set in the same universe.
+The developer attributed the repeat-interaction bug to messy underlying code, and noted they were taking the feedback into a new project set in the same universe.

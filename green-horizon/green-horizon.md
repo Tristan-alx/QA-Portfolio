@@ -1,19 +1,22 @@
 # Green Horizon — Playtest Report (2 Builds)
 
 **Developer:** likeaninjamedia
+
 **Platform:** itch.io (browser build, then downloadable beta)
+
 **Genre:** Farming sim
+
 **Tester:** Loïc Alexandre (Wattmole)
 
 ## Summary
-Tested across two separate builds — the first public playtest, then a downloadable beta after the developer addressed the initial report. Feedback is organized by category to track how the game evolved between builds, demonstrating iterative/longitudinal testing.
+Tested across two separate builds, the first public playtest, then a downloadable beta after the developer addressed the initial report. Feedback is organized by category to track how the game evolved between builds, demonstrating iterative/longitudinal testing.
 
 ## Build 1 — Issues Found
 
 | # | Severity | Area | Description |
 |---|---|---|---|
 | 1 | Medium | UX/Blocking | After choosing "Move Object" or "Pick up Object," an unlabeled dark rectangle appears bottom-right and blocks interaction with all buildings and the pond except the phone, with no explanation of what it does or how to dismiss it. |
-| 2 | Medium | Interaction | The "Rotate (R)" option in the object-move menu does not rotate the item — clicking it drops the object at the cursor position instead. |
+| 2 | Medium | Interaction | The "Rotate (R)" option in the object-move menu does not rotate the item, clicking it drops the object at the cursor position instead. |
 | 3 | Medium | State bleed | While in "move object" mode, the player can still open buildings, plant seeds, or move other objects by clicking them directly, instead of being confined to the move action. |
 | 4 | Medium | Interaction | Repositioned objects render offset from their actual placement position (below and to the right), making placement feel imprecise. |
 | 5 | Low | Visual | Farm-naming text prompt overlaps the "...ll your farm" portion of the underlying text. |
@@ -50,4 +53,4 @@ Tested across two separate builds — the first public playtest, then a download
 - Money pacing felt more generous in Build 2; XP pacing still felt slow for early unlocks.
 
 ## Developer Response
-Developer called this the game's first public playtest and worked through the reported issues over subsequent updates, several of which were confirmed fixed in the beta build. Invited the tester back for further beta feedback rounds.
+The developer called this the game's first public playtest and worked through the reported issues over subsequent updates, several of which were confirmed fixed in the beta build. They also invited me back for further beta feedback rounds.

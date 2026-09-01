@@ -1,8 +1,11 @@
 # Cairn — Playtest Report
 
 **Developer:** rubic
+
 **Platform:** itch.io
+
 **Genre:** Puzzle platformer
+
 **Tester:** Loïc Alexandre (Wattmole)
 
 ## Summary
@@ -19,4 +22,4 @@ Short playtest of a block-pushing puzzle platformer. One clear terminal-state is
 - Pixel art, music, and the simplicity of each block's properties were well received.
 
 ## Notes
-Tester explicitly flagged this as the kind of ambiguous end-state that benefits from an explicit resolution screen or audio cue, regardless of which design direction (screen transition vs. continued climb) the developer intends.
+I flagged this as the kind of ambiguous end-state that benefits from an explicit resolution screen or audio cue, regardless of which design direction (screen transition vs. continued climb) the developer intends.
